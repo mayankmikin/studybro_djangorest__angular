@@ -1,0 +1,1 @@
+ng build --prod --output-path /home/mayank/djangular/backend/src/static/ang/ --watch --output-hashing none
